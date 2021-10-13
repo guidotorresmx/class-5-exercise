@@ -1,2 +1,5 @@
-# class-5-exercise
-tools and workflows for the web - class 5 exercise 
+## Questions
+1. Write the command (or commands) that will display the following message 'Hello from the command line.'
+```
+$ echo 'Hello from the command line.'
+```
