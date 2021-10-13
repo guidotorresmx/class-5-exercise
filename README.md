@@ -8,3 +8,8 @@
 ```
     touch hello-world.txt
 ```
+
+3. Write the command (or commands) that will create a folder named 'my-new-folder' in _current_ directory.
+```
+    mkdir my-new-folder
+```
