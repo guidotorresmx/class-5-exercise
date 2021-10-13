@@ -18,3 +18,8 @@
 ```
     rmdir my-new-folder 2> /dev/null || echo 'Whoops, cannot delete a folder that does not exist'
 ```
+
+5. Write the command (or commands) that will navigate to your desktop, and then to the parent folder of the desktop.
+```
+    cd ~/Desktop/.. #Desktop is inside home directory in my system
+```
